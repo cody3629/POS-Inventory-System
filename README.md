@@ -22,11 +22,11 @@ This project was inspired by feedback from real small business owners frustrated
 
 ## Future work
 
--UI for users
--Enhanced barcode integration
--Website advertising the system and the benefits that come with it
+- UI for users
+- Enhanced barcode integration
+- Website advertising the system and the benefits that come with it
 
-## ⚠️License
+## ⚠️ License
 
-This project is public for portfolio and demonstration purposes only.
+This project is public for portfolio and demonstration purposes only.  
 Do not use, copy, or redistribute this code without explicit permission.
