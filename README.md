@@ -21,23 +21,6 @@ This project was inspired by feedback from real small business owners frustrated
 - 🛒 Automatically update stock levels after a sale
 - 🛠️ RESTful API endpoints for integration with a frontend
 
-## 📂 Project Structure
-pos-system/
-├── client/ # Frontend (React)
-├── server/ # Backend API
-│ ├── db.js # DB connection pool
-│ ├── server.js # Express server
-│ └── .env # Sensitive env variables (ignored from Git)
-└── README.md
-
-
-## 🧪 Endpoints
-
-| Method | Endpoint         | Description                     |
-|--------|------------------|---------------------------------|
-| GET    | `/api/products`  | Get all products                |
-| POST   | `/api/sale`      | Process a product sale          |
-
 ## Future work
 -UI for users
 -Enhanced barcode integration
