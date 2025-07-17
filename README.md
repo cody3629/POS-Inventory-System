@@ -1,6 +1,6 @@
 # 🧾 POS & Inventory Management System
 
-A simple backend Point of Sale (POS) and inventory tracking system built with Node.js, Express, and MariaDB.
+A simple backend Point of Sale (POS) and inventory tracking system built with Node.js, Express, and MariaDB(MySQL).
 
 ## User Story
 
@@ -37,6 +37,11 @@ pos-system/
 |--------|------------------|---------------------------------|
 | GET    | `/api/products`  | Get all products                |
 | POST   | `/api/sale`      | Process a product sale          |
+
+## Future work
+-UI for users
+-Enhanced barcode integration
+-Website advertising the system and the benefits that come with it
 
 ## ⚠️License
 This project is public for portfolio and demonstration purposes only.
